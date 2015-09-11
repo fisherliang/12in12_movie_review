@@ -5,6 +5,7 @@ gem 'rails', '4.2.2'
 gem 'sqlite3'
 gem 'devise', '~> 3.4.1'
 gem 'paperclip'
+gem 'bootstrap-sass'
 
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
